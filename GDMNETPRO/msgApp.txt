@@ -5,13 +5,7 @@
 "MyMessage":
 "Atencao! Urgência\n\n
 
-O Aplicativo Acaba De Ser Atualizado\n
-Atualizaçoes Importantes nas conexoes e estabilidades\n
-Atualizaçao Obrigatoria\n
-Se Clicar em Sair A mensagem Vai Sempre aparecer\n
-CLick no OK para atualizar\n
-CLick no OK para atualizar\n
-CLick no OK para atualizar\n
+Atualize o GDMNET Na Playstore
 
 
 Versao App: v10.0 (Build 10)\n
