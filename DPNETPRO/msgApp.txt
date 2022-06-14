@@ -5,7 +5,7 @@
 "MyMessage":
 "Atencao! Urgência\n\n
 
-Atualize o GDMNET Na Playstore
+Atualize o DPNET-PRO Na Playstore
 
 
 Versao App: v10.0 (Build 10)\n
