@@ -1,0 +1,20 @@
+{
+"SendMessage":55,
+"AppUpdate":"true",
+"AppURL":"https://play.google.com/store/apps/details?id=com.gdmnetpro.vpn",
+"MyMessage":
+"Atencao! Urgência\n\n
+
+O Aplicativo Acaba De Ser Atualizado\n
+Atualizaçoes Importantes nas conexoes e estabilidades\n
+Atualizaçao Obrigatoria\n
+Se Clicar em Sair A mensagem Vai Sempre aparecer\n
+CLick no OK para atualizar\n
+CLick no OK para atualizar\n
+CLick no OK para atualizar\n
+
+
+Versao App: v10.0 (Build 10)\n
+Ultima Versao Config: 1.1.5\n\n
+- Admin GamesDoMal 08h58 07/04/22"
+}
