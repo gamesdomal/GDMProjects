@@ -1,14 +1,15 @@
 {
-"SendMessage":55,
+"SendMessage":56,
 "AppUpdate":"true",
-"AppURL":"https://play.google.com/store/apps/details?id=com.dpnetpro.vpn",
+"AppURL":"https://play.google.com/store/apps/details?id=com.gdmnetpro.vpn",
 "MyMessage":
 "Atencao! Urgência\n\n
 
-Atualize o DPNET-PRO Na Playstore
+Estamos Descontinuando o Projeto DPNET Pro
 
 
-Versao App: v10.0 (Build 10)\n
-Ultima Versao Config: 1.1.5\n\n
-- Admin GamesDoMal 08h58 07/04/22"
+Para Continuar Usando Podem Estar Baixando GDMNET Pro
+Cliquem em Ok para baixar!!!!
+
+- Admin GamesDoMal 12h14 27/06/22"
 }
