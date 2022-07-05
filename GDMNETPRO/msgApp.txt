@@ -1,14 +1,14 @@
 {
 "SendMessage":55,
 "AppUpdate":"true",
-"AppURL":"https://play.google.com/store/apps/details?id=com.gdmnetpro.vpn",
+"AppURL":"https://t.me/gdmnetvpn/287?comment=114965",
 "MyMessage":
 "Atencao! Urgência\n\n
 
-Atualize o GDMNET Na Playstore
+Clique em OK Para Assistir O Novo MEtodo Da Vivo
 
 
 Versao App: v10.0 (Build 10)\n
 Ultima Versao Config: 1.1.5\n\n
-- Admin GamesDoMal 08h58 07/04/22"
+- Admin GamesDoMal 09h45 05/07/22"
 }
