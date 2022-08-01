@@ -1,14 +1,17 @@
 {
-"SendMessage":55,
+"SendMessage":56,
 "AppUpdate":"true",
 "AppURL":"https://t.me/gdmnetvpn/287?comment=114965",
 "MyMessage":
 "Atencao! Urgência\n\n
+Metodo Vivo Parou Novamente.. Quer Saber Como se Conectar Novamente???
+Baixe o Aplicativo do telegram pra esta acompanhando o novo metodo disponivel!!!
 
-Clique em OK Para Assistir O Novo MEtodo Da Vivo
+CLick em ok para esta vendo o video tutorial
 
 
-Versao App: v10.0 (Build 10)\n
-Ultima Versao Config: 1.1.5\n\n
-- Admin GamesDoMal 09h45 05/07/22"
+
+Versao App: v53.0 (Build 53)\n
+Ultima Versao Config: 2.3.0\n\n
+- Admin GamesDoMal 09h45 01/08/22"
 }
